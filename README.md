@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Application Tracker
 
 ## 1. Project Overview
@@ -144,3 +145,7 @@ Added screenshots of the running API and important operations to a `screenshots/
 - Add reminders for interviews and follow-ups.
 - Add application activity history.
 - Improve dashboard visualizations.
+=======
+# job-application-tracker
+Job Application Tracker built with FastAPI, PostgreSQL, SQLAlchemy and JWT authentication.
+>>>>>>> 2237850df9ba2dbd83eef239b0cf7ac676c70be2
